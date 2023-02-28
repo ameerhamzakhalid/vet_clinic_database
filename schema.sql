@@ -82,11 +82,7 @@ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 -- Performance Audit Indexing
 --for Visits Table
 CREATE INDEX visits_animal_id ON visits(animals_id);
-CREATE INDEX visits_vets_id ON visits(vets_id)
-CREATE INDEX owener_email ON owners(email)
+CREATE INDEX visits_vets_id ON visits(vets_id);
 
 --for Owners Table
-
-
-
-
+CREATE INDEX owner_email ON owners(email);
