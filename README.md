@@ -24,7 +24,7 @@
 
 # 📖 [vet_clinic_database] <a name="about-project"></a>
 
-**[vet_clinic_database]** is a program that creates a data base for a vet clinic.
+**vet_clinic_database** is a program that creates a data base for a vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 - postgresql
@@ -80,11 +80,16 @@ To run the project, execute the following:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Yuvenal Njoroge**
+👤 **Hamza**
+- GitHub: [@ameerhamzakhalid](https://github.com/ameerhamzakhalid)
+- Twitter: [@twitterhandle](https://twitter.com/ameeerhamza1997)
+- LinkedIn: [Ameer Hamza](https://www.linkedin.com/in/choudhary-hamza-37b17a141/)
 
-- GitHub: [@githubhandle](https://github.com/ameerhamzakhalid)
-- Twitter: [@twitterhandle](https://twitter.com/@ameeerhamza1997)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ameerhamzakhalid/)
+👤 **Ellon M**
+
+- GitHub: [@githubhandle](https://github.com/Ellon-M)
+- Twitter: [@twitterhandle](https://twitter.com/ellonm4)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ellon-m)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
