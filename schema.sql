@@ -8,8 +8,19 @@ CREATE TABLE animals (
 	neutered	BOOLEAN NOT NULL,
 	weight_kg FLOAT(4) NOT NULL,
 	PRIMARY KEY(id)
+	id	INT GENERATED ALWAYS AS IDENTITY,
+	name VARCHAR(100) NOT NULL,
+	date_of_birth	DATE NOT NULL,
+	escape_attempts	INT NOT NULL,
+	neutered	BOOLEAN NOT NULL,
+	weight_kg FLOAT(4) NOT NULL,
+	PRIMARY KEY(id)
 );
 
+/* adding column species to the animals table*/
+
+ALTER TABLE animals 
+ADD COLUMN species VARCHAR(100);
 /* adding column species to the animals table*/
 
 ALTER TABLE animals 
